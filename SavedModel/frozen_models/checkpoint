@@ -1,0 +1,2 @@
+model_checkpoint_path: "pydnet.ckpt"
+all_model_checkpoint_paths: "pydnet.ckpt"
